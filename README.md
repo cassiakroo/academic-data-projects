@@ -20,8 +20,8 @@ electronic devices were top predictors.
 **Methods:** Hypothesis Testing (ANOVA, Tukey HSD), Network Analysis, Sentiment Analysis.  
 **Key Finding:** Action and Adventure genres drive the highest revenue; franchises
 with recurring actor pairs (Marvel, Star Wars) outperform others.  
-[**See Report**](stats140xp_boxoffice:box_office_report.pdf)  
-[**See Poster**](stats140xp_boxoffice:box_office_poster.pdf)
+[**See Report**](stats140xp_boxoffice_box_office_report.pdf)  
+[**See Poster**](stats140xp_boxoffice_box_office_poster.pdf)
 
 ---
 
