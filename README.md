@@ -11,7 +11,7 @@ statistical modeling, data visualization, and real-world interpretation.
 **Methods:** Logistic Regression, Decision Trees, Random Forests, and SVM in R.  
 **Key Finding:** Daily water intake, height, age, activity frequency, and time using
 electronic devices were top predictors.  
-[**See Report**](stats101c_obesity:Predicting_obesity_report.pdf)
+[**See Report**](stats101c_obesity_Predicting_obesity_report.pdf)
 
 ---
 
