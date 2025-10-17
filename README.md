@@ -11,7 +11,7 @@ statistical modeling, data visualization, and real-world interpretation.
 **Methods:** Logistic Regression, Decision Trees, Random Forests, and SVM in R.  
 **Key Finding:** Daily water intake, height, age, activity frequency, and time using
 electronic devices were top predictors.  
-
+[**See Report**](reports/Obesity_Status_Report.pdf)
 ---
 
 ## Project 2: Box Office Revenue Analysis (Stats 140XP)
@@ -19,6 +19,8 @@ electronic devices were top predictors.
 **Methods:** Hypothesis Testing (ANOVA, Tukey HSD), Network Analysis, Sentiment Analysis.  
 **Key Finding:** Action and Adventure genres drive the highest revenue; franchises
 with recurring actor pairs (Marvel, Star Wars) outperform others.  
+[**See Report**](reports/Box_Office_Revenue_Report.pdf)  
+[**See Poster**](posters/Box_Office_Revenue_Poster.pdf)
 
 ---
 
