@@ -11,7 +11,6 @@ statistical modeling, data visualization, and real-world interpretation.
 **Methods:** Logistic Regression, Decision Trees, Random Forests, and SVM in R.  
 **Key Finding:** Daily water intake, height, age, activity frequency, and time using
 electronic devices were top predictors.  
-[Read the full report](stats101c_obesity/Predicting_obesity_report.pdf)
 
 ---
 
@@ -20,8 +19,6 @@ electronic devices were top predictors.
 **Methods:** Hypothesis Testing (ANOVA, Tukey HSD), Network Analysis, Sentiment Analysis.  
 **Key Finding:** Action and Adventure genres drive the highest revenue; franchises
 with recurring actor pairs (Marvel, Star Wars) outperform others.  
-[Full Report](stats140xp_boxoffice/box_office_report.pdf)  
-[Poster Presentation](stats140xp_boxoffice/box_office_poster.pdf)
 
 ---
 
